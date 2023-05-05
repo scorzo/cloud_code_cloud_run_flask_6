@@ -1,5 +1,5 @@
 """
-A sample Hello World server.
+A sample Chat App server
 """
 import os
 import openai
